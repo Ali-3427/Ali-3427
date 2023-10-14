@@ -1,0 +1,3 @@
+-Hi, im Ali
+-Interested in ML, AI and Tensorflow
+-Currently learing and working on Python and Tensorflow
