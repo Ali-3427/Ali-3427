@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Ali 👋</h1>
 <h3 align="center">Electrical & Electronics Engineer · Software & AI Builder</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Antalya,_Türkiye-grey?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 </p>
 
 ---
